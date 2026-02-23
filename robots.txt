@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.paidiptvbd-stream.online/sitemap.xml
