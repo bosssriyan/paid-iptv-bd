@@ -1,8 +1,9 @@
 // ======================== PLAYLISTS ========================
 const urls = [
-  "https://aynatest.pages.dev/ayna.m3u",
+"https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u",
   "https://raw.githubusercontent.com/biostartvworld/playlist/refs/heads/main/playlist.m3u",
-  "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u"
+  "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u",
+  "https://aynatest.pages.dev/ayna.m3u"
 ];
 
 let channels = [];
@@ -337,6 +338,7 @@ document.addEventListener("DOMContentLoaded",()=>{
   document.body.appendChild(tg);
 
 });
+
 
 
 
