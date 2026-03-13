@@ -1,6 +1,6 @@
 // ======================== PLAYLISTS ========================
 const urls = [
-"https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u",
+"https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Fancode.m3u",
   "https://raw.githubusercontent.com/biostartvworld/playlist/refs/heads/main/playlist.m3u",
   "https://raw.githubusercontent.com/sm-monirulislam/RoarZone-Auto-Update-playlist/refs/heads/main/RoarZone.m3u",
   ""
@@ -338,6 +338,7 @@ document.addEventListener("DOMContentLoaded",()=>{
   document.body.appendChild(tg);
 
 });
+
 
 
 
